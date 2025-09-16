@@ -1,2 +1,2 @@
 # sigma
-this the sigma class i am attending
+this the sigma class i am attending.
